@@ -1,0 +1,8 @@
+{
+  "alert_id": "ALT-1001",
+  "source_ip": "192.0.2.15",
+  "destination_ip": "198.51.100.20",
+  "severity": "HIGH",
+  "rule": "High Connection Rate",
+  "risk_score": 78
+}

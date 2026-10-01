@@ -1,0 +1,49 @@
+{
+  "logistic_regression": {
+    "accuracy": 0.9872,
+    "precision": 1.0,
+    "recall": 0.9633867276887872,
+    "f1": 0.9813519813519813,
+    "confusion_matrix": [
+      [
+        813,
+        0
+      ],
+      [
+        16,
+        421
+      ]
+    ]
+  },
+  "random_forest": {
+    "accuracy": 0.9968,
+    "precision": 1.0,
+    "recall": 0.9908466819221968,
+    "f1": 0.9954022988505747,
+    "confusion_matrix": [
+      [
+        813,
+        0
+      ],
+      [
+        4,
+        433
+      ]
+    ]
+  },
+  "isolation_forest": {
+    "precision": 0.8914027149321267,
+    "recall": 0.9016018306636155,
+    "f1": 0.8964732650739476,
+    "confusion_matrix": [
+      [
+        765,
+        48
+      ],
+      [
+        43,
+        394
+      ]
+    ]
+  }
+}
